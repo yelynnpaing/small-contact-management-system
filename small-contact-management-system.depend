@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714813053 source:d:\ylp\pgdca-b32\cdoublefreetutos\small-contact-management-system\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
